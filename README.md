@@ -16,12 +16,4 @@ The full project code is available in [MIB_iEEG](https://github.com/barbaragrosj
 
 ## Usage
 
-The dataset is not included in this repository. The scripts require project-specific recordings, behavioral data, and intermediate analysis files.
-
-Before running the analyses:
-
-1. Set `PROJECT_PATH`, `DATA_PATH`, and `OUT_PATH` in `src/config.py`.
-2. Review the data paths, participant selections, and analysis parameters in each script.
-3. Prepare the required input files, then run the relevant scripts and use `main.ipynb` to inspect the results.
-
-Some paths and settings are defined directly in the scripts and must be adapted to your local environment.
+The dataset is not included in this repository.
